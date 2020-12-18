@@ -1,0 +1,46 @@
+@media screen and (max-width: 480px) {
+  #about {
+    height: auto;
+  }
+
+  #text-about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .image-about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 300px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+
+  .text-expertise {
+    width: 200px;
+    text-align: center;
+  }
+
+  #image-consulting {
+    color: whitesmoke;
+    background-image: url("../../images/consulting.jpg");
+    background-size: cover;
+  }
+
+  #image-bfa {
+    color: rgb(63, 62, 62);
+    background-image: url("../../images/BFA.jpg");
+    background-size: cover;
+  }
+
+  #image-cloud {
+    color: whitesmoke;
+    background-image: url("../../images/cloud.jpg");
+    background-size: cover;
+  }
+}

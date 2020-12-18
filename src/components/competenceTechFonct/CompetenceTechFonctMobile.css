@@ -1,0 +1,36 @@
+@media screen and (max-width: 480px) {
+  .box {
+    width: 300px;
+    background-color: rgb(235, 231, 231);
+  }
+
+  #competence-100 {
+    width: 100%;
+    height: 30px;
+    background-color: rgb(119, 151, 236);
+    margin: 10px 0px 10px 0px;
+  }
+  #competence-80 {
+    width: 80%;
+    height: 30px;
+    background-color: rgb(119, 151, 236);
+    margin: 10px 0px 10px 0px;
+  }
+  #competence-60 {
+    width: 60%;
+    height: 30px;
+    background-color: rgb(119, 151, 236);
+    margin: 10px 0px 10px 0px;
+  }
+
+  .titre-competence {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    width: 110px;
+    height: 100%;
+    background-color: rgb(60, 106, 235);
+    color: white;
+    font-size: 12px;
+  }
+}

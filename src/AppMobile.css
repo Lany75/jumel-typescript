@@ -1,0 +1,28 @@
+@media screen and (max-width: 480px) {
+  .App {
+    width: 100%;
+    height: 100%;
+  }
+
+  #home-transition {
+    background-image: url("./images/nasa-Q1p7bh3SHj8-unsplash.jpg");
+    background-size: cover;
+  }
+
+  .transition {
+    height: 50px;
+  }
+
+  #transition-2 {
+    background-image: url("./images/lignes-code.jpg");
+    background-size: cover;
+  }
+  #transition-3 {
+    background-image: url("./images/eclipse.jpg");
+    background-size: cover;
+  }
+  #transition-4 {
+    background-image: url("./images/clavier.jpg");
+    background-size: cover;
+  }
+}

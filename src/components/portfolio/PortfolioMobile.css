@@ -1,0 +1,17 @@
+@media screen and (max-width: 480px) {
+  #portfolio {
+    height: auto;
+  }
+
+  #text-portfolio {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+  }
+
+  #experiences {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

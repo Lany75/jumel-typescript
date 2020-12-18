@@ -1,0 +1,22 @@
+@media screen and (max-width: 480px) {
+  #footer {
+    background-color: black;
+    height: 50px;
+    font-size: 10px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  .rappel-menu {
+    text-decoration: none;
+    color: white;
+  }
+
+  #ml-remerciement {
+    display: flex;
+    flex-direction: column;
+  }
+}

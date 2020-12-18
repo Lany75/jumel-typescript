@@ -1,0 +1,33 @@
+@media screen and (min-width: 1025px) {
+  #footer {
+    background-color: black;
+    height: 100px;
+    font-size: 15px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  #rappel-menu {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+  }
+
+  .rappel-menu {
+    text-decoration: none;
+    color: white;
+  }
+
+  .rappel-menu:hover {
+    font-size: 20px;
+    cursor: pointer;
+  }
+
+  #ml-remerciement {
+    display: flex;
+    flex-direction: column;
+  }
+}

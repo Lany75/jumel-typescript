@@ -1,0 +1,18 @@
+@media screen and (min-width: 1025px) {
+  .icon-retour {
+    width: 30px;
+    height: 30px;
+    margin: 50px 0px 50px 200px;
+    font-size: 30px;
+  }
+
+  .icon-retour:hover {
+    font-size: 32px;
+    cursor: pointer;
+  }
+
+  .icon-retour a {
+    text-decoration: none;
+    color: black;
+  }
+}

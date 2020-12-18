@@ -1,0 +1,15 @@
+@media screen and (min-width: 1025px) {
+  #home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    height: 350px;
+    font-size: 60px;
+    padding-top: 150px;
+  }
+
+  #logo-mobile {
+    display: none;
+  }
+}

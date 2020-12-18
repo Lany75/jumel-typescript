@@ -1,0 +1,44 @@
+@media screen and (min-width: 1025px) {
+  #skills {
+    height: auto;
+  }
+
+  #titre-skills {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 10%;
+    font-size: 50px;
+  }
+
+  #text-skills {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 75px;
+    flex-wrap: wrap;
+  }
+
+  .skills {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #domaine-competence {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+  }
+
+  .titre-skills {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+
+  #competence-tech,
+  #competence-fonct {
+    width: 400px;
+  }
+}

@@ -1,0 +1,19 @@
+@media screen and (min-width: 1025px) {
+  #portfolio {
+    height: auto;
+  }
+
+  #text-portfolio {
+    display: flex;
+    flex-direction: column;
+    margin-top: 75px;
+  }
+
+  #experiences {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 20px 0px 20px 0px;
+    flex-wrap: wrap;
+  }
+}

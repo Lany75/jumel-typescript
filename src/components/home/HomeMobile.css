@@ -1,0 +1,17 @@
+@media screen and (max-width: 480px) {
+  #home {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    height: 150px;
+    font-size: 30px;
+    padding-top: 50px;
+  }
+
+  #logo-mobile {
+    width: 30px;
+    height: 30px;
+    display: none;
+  }
+}

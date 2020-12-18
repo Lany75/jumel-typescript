@@ -1,0 +1,148 @@
+{
+  "menu": {
+    "accueil": "Accueil",
+    "expertise": "Expertise",
+    "competence": "Compétence",
+    "experiences": "Expériences",
+    "contact": "Contact"
+  },
+  "home": "JUMEL CONSULTING",
+  "expertises": {
+    "expert1": {
+      "titre": "CONSULTING",
+      "text": "Afin de vous permettre de faire face aux nouveaux enjeux du numérique, nous vous accompagnons dans tous vos projets de transformation IT"
+    },
+    "expert2": {
+      "titre1": "BANQUE",
+      "titre2": "FINANCE",
+      "titre3": "ASSURANCE",
+      "text": "Nous avons développé des compétences business qui couvre un large spectre en Banque, Finance, Assurance"
+    },
+    "expert3": {
+      "titre": "CLOUD",
+      "text": "Le Cloud transforme durablement le paysage IT, notre expertise en architecture et notamment sur Azure sont là pour vous aider à vous engager"
+    }
+  },
+  "skills": {
+    "skill1": {
+      "titre": "Domaines de compétences",
+      "competence1": "Méthode Agiles",
+      "competence2": "Architecture",
+      "competence3": ".NET",
+      "competence4": "Sybase",
+      "competence5": "GIT",
+      "competence6": "SQL",
+      "competence7": "Base de données",
+      "competence8": "Oracle",
+      "competence9": "Visual Studio",
+      "competence10": "Microsoft SQL Server",
+      "competence11": "Microsoft Azure",
+      "competence12": "Azure DevOps",
+      "competence13": "OData"
+    },
+    "skill2": {
+      "titre": "Compétences techniques",
+      "competence1": "C#",
+      "competence2": "WPF",
+      "competence3": "REST",
+      "competence4": "WebAPI",
+      "competence5": "MongoDB",
+      "competence6": "Azue DevOps",
+      "competence7": "Datalake",
+      "competence8": "Winforms",
+      "competence9": "RabbitMQ",
+      "competence10": "Oracle",
+      "competence11": "WCF",
+      "competence12": "Web Service",
+      "competence13": "J2EE",
+      "competence14": "Java",
+      "competence15": "Spring",
+      "competence16": "Sybase"
+    },
+    "skill3": {
+      "titre": "Compétences fonctionnelles",
+      "competence1": "VaR#",
+      "competence2": "PnL",
+      "competence3": "Risk Analysis",
+      "competence4": "Assurance",
+      "competence5": "Asset Management",
+      "competence6": "Risque de crédit",
+      "competence7": "ISR",
+      "competence8": "Option de change",
+      "competence9": "Pricing intéractif",
+      "competence10": "Deal Lifecycle",
+      "competence11": "Produits exotiques",
+      "competence12": "Produits structurés"
+    }
+  },
+  "portfolio": {
+    "experience1": {
+      "entreprise": "ENGIE Global Markets",
+      "poste": "Responsable technique"
+    },
+    "experience2": {
+      "entreprise": "AXA Life Invest",
+      "poste": "Ingénieur Logiciel Senior Chef d'equipe"
+    },
+    "experience3": {
+      "entreprise": "Societe Generale Corporate and Investment Banking",
+      "poste": "Responsable technique"
+    },
+    "experience4": {
+      "entreprise": "Amundi",
+      "poste": "Développeur Senior J2Ee"
+    },
+    "experience5": {
+      "entreprise": "Atos",
+      "poste": "Ingénieur logiciel informatique"
+    }
+  },
+  "contact": {
+    "titre": "Contact",
+    "text": "Pour toute demande d'information, envoyez nous un",
+    "mail": "courriel"
+  },
+  "footer": {
+    "mentionsLegales": "Mentions Legales",
+    "remerciements": "Remerciements"
+  },
+  "mentionsLegales": {
+    "titre": "MENTIONS LEGALES",
+    "immatriculation": {
+      "titre": "IMMATRICULATION",
+      "texte": {
+        "zone1": "JUMEL CONSULTING est une société par action simplifiée à associé unique au capital social de 3000€. L'entreprise est identifiée au Registre du Commerce et des Sociétés (RCS) de Paris sous le numéro 805 077 617. Son siège social est situé 91 bld Soult 75012 Paris.",
+        "zone2": "Tel : 06.08.97.37.44 -- Mail : julien.rivat@jumel-consulting.com"
+      }
+    },
+    "realisation": {
+      "titre": "REALISATION DU SITE",
+      "texte": {
+        "zone1": "Conceptrice et développeuse : Mélanie PARRY (mlanie.parry@gmail.com)",
+        "zone2": "Hébergeur : OVH (2 rue Kellerman 59100 Roubaix)"
+      }
+    },
+    "confidentialite": {
+      "titre": "POLITIQUE DE CONFIDENTIALITE",
+      "texte": {
+        "zone1": "L'entreprise JUMEL CONSULTING s'engage à ce que la collecte et le traitement de vos données soient conformes au Règlement Général sur la Protection des Données (RGPD) et à la loi Informatique et Libertés.",
+        "zone2": "Les données personnelles recueillis ont pour finalité le traitement de votre demande d'information formulée sur le site.",
+        "zone3": "En application de la loi Informatique et Libertés du 6 janvier 1978, vous disposez d'un droit d'accès, de rectification, de modification et de suppression des données qui vous concernent.",
+        "zone4": {
+          "div": "Vous pouvez exercer ce droit de plusieurs façon :",
+          "ul": {
+            "li1": "En envoyant un courriel à julien.rivat@jumel-consulting.com",
+            "li2": "En envoyant un courrier à Jumel Consulting 91 bld Soult 75012 Paris"
+          }
+        }
+      }
+    }
+  },
+  "remerciement": {
+    "titre": "REMERCIEMENTS",
+    "text": {
+      "partie1": "Suite à l'utilisation des photos disponibles sur",
+      "partie2": ", nous souhaitons remercier :"
+    }
+  }
+}

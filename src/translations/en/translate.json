@@ -1,0 +1,148 @@
+{
+  "menu": {
+    "accueil": "Home",
+    "expertise": "Expertise",
+    "competence": "Skills",
+    "experiences": "Experiences",
+    "contact": "Contact"
+  },
+  "home": "JUMEL CONSULTING",
+  "expertises": {
+    "expert1": {
+      "titre": "CONSULTING",
+      "text": "In order to face the new numeric challenges, we support you in your IT transformation project"
+    },
+    "expert2": {
+      "titre1": "BANKING",
+      "titre2": "FINANCE",
+      "titre3": "INSURANCE",
+      "text": "We have developped strong skills in key business domain, that cover a large spectrum from Bank, to Finance and Insurance"
+    },
+    "expert3": {
+      "titre": "CLOUD",
+      "text": "Cloud is durably transforming the IT landscape, our Cloud Architecture skills and specifically in Azure will help you to embrace this new turn"
+    }
+  },
+  "skills": {
+    "skill1": {
+      "titre": "Skills domains",
+      "competence1": "Agile Method",
+      "competence2": "Architecture",
+      "competence3": ".NET",
+      "competence4": "Sybase",
+      "competence5": "GIT",
+      "competence6": "SQL",
+      "competence7": "Database",
+      "competence8": "Oracle",
+      "competence9": "Visual Studio",
+      "competence10": "Microsoft SQL Server",
+      "competence11": "Microsoft Azure",
+      "competence12": "Azure DevOps",
+      "competence13": "OData"
+    },
+    "skill2": {
+      "titre": "Technical skills",
+      "competence1": "C#",
+      "competence2": "WPF",
+      "competence3": "REST",
+      "competence4": "WebAPI",
+      "competence5": "MongoDB",
+      "competence6": "Azue DevOps",
+      "competence7": "Datalake",
+      "competence8": "Winforms",
+      "competence9": "RabbitMQ",
+      "competence10": "Oracle",
+      "competence11": "WCF",
+      "competence12": "Web Service",
+      "competence13": "J2EE",
+      "competence14": "Java",
+      "competence15": "Spring",
+      "competence16": "Sybase"
+    },
+    "skill3": {
+      "titre": "Functional skills",
+      "competence1": "VaR#",
+      "competence2": "PnL",
+      "competence3": "Risk Analysis",
+      "competence4": "Insurance",
+      "competence5": "Asset Management",
+      "competence6": "Credit risk",
+      "competence7": "ISR",
+      "competence8": "Currency option",
+      "competence9": "Interactive pricing",
+      "competence10": "Deal Lifecycle",
+      "competence11": "Exotic products",
+      "competence12": "Structured products"
+    }
+  },
+  "portfolio": {
+    "experience1": {
+      "entreprise": "ENGIE Global Markets",
+      "poste": "Technical Lead"
+    },
+    "experience2": {
+      "entreprise": "AXA Life Invest",
+      "poste": "Senior Software Engineer Team Lead"
+    },
+    "experience3": {
+      "entreprise": "Societe Generale Corporate and Investment Banking",
+      "poste": "Technical Lead"
+    },
+    "experience4": {
+      "entreprise": "Amundi",
+      "poste": "Senior J2Ee Developer"
+    },
+    "experience5": {
+      "entreprise": "Atos",
+      "poste": "Information Technology Software Engineer"
+    }
+  },
+  "contact": {
+    "titre": "Contact",
+    "text": "For any information request, send us an",
+    "mail": "email"
+  },
+  "footer": {
+    "mentionsLegales": "Legal Notice",
+    "remerciements": "Thanks"
+  },
+  "mentionsLegales": {
+    "titre": "LEGAL NOTICE",
+    "immatriculation": {
+      "titre": "REGISTRATION",
+      "texte": {
+        "zone1": "JUMEL CONSULTING is a simplified joint-stock company with a single shareholder with a share capital of € 3,000. The company is identified in the Paris Trade and Companies Register (RCS) under number 805 077 617. Its head office is located at 91 bld Soult 75012 Paris.",
+        "zone2": "Phone : 06.08.97.37.44 -- Email : julien.rivat@jumel-consulting.com"
+      }
+    },
+    "realisation": {
+      "titre": "REALIZATION OF THE SITE",
+      "texte": {
+        "zone1": "Designer and developer : Mélanie PARRY (mlanie.parry@gmail.com)",
+        "zone2": "Host : OVH (2 rue Kellerman 59100 Roubaix)"
+      }
+    },
+    "confidentialite": {
+      "titre": "PRIVACY POLICY",
+      "texte": {
+        "zone1": "JUMEL CONSULTING is committed to ensuring that the collection and processing of your data complies with the General Data Protection Regulations (RGPD) and the Data Protection Act.",
+        "zone2": "The purpose of the personal data collected is to process your request for information made on the site.",
+        "zone3": "In application of the Data Protection Act of January 6, 1978, you have the right to access, rectify, modify and delete data concerning you.",
+        "zone4": {
+          "div": "You can exercise this right in several ways:",
+          "ul": {
+            "li1": "By sending an email to julien.rivat@jumel-consulting.com",
+            "li2": "By sending a letter to Jumel Consulting 91 bld Soult 75012 Paris"
+          }
+        }
+      }
+    }
+  },
+  "remerciement": {
+    "titre": "THANKS",
+    "text": {
+      "partie1": "Following the use of the pictures available on",
+      "partie2": ", we want to thank :"
+    }
+  }
+}

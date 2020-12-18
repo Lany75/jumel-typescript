@@ -1,0 +1,14 @@
+@media screen and (min-width: 481px) and (max-width: 1024px) {
+  .competence {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 5px;
+  }
+
+  .icon-skill {
+    font-size: 15px;
+    margin-right: 10px;
+  }
+}
